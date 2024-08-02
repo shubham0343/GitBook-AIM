@@ -254,3 +254,75 @@ The wires represented by rows with serial numbers 6 and 7 in the following table
 - SCREW M3 X 0.5 X 10MM
 - NUT M3 X 0.5 X 4MM HEX
 - SCREW M3 X 0.5 X 10MM
+
+# WITB MR-LIDAR-STL-27
+ 
+## What's in the Box — MR-LIDAR-STL-27 (Lidar) Components
+ 
+**UPDATING:** The final version of this assembly will include the lidar to NavQPlus Cable. Currently, that cable is included elsewhere in the kit.
+ 
+### MR-LIDAR-STL-27 Diagrams
+ 
+- MR-LIDAR-STL-27 Box
+- MR-LIDAR-STL-27 Module
+ 
+# WITB NavQPlus with Camera
+ 
+## What's in the Box — NavQPlus with Camera Components
+ 
+**UPDATING:** The final version of this kit will be updated so that the camera mount (item 2.B) is open on the bottom, allowing the camera cable and camera to be more easily separated from the mount.
+ 
+### NavQPlus with Camera Diagrams
+ 
+- NavQPlus Box
+ 
+### NavQPlus with Camera Components
+ 
+| S.No. | Item Number | Description                                      | Quantity |
+|-------|-------------|--------------------------------------------------|----------|
+| 1     | 900-77143    | HW ASSY, 8MPNAVQ-8GB-G KIT                       | 1        |
+| 1.A   | 700-88954    | PWA, NAVQ-PLUS-2A                               | 1        |
+| 1.B   | 700-89912    | PWA, 8MPNAVQ-808-G                             | 1        |
+| 1.C   | 800-76568    | ENCLOSURE, NAVOPLUS ENCLOSURE KIT WITH HEATSINK | 1        |
+| 2     | 900-77144    | HW ASSY, INNOCAM KIT WITH ENCLOSURE AND SCREWS | 1        |
+| 2.A   | 901-77809    | HW ACCESSORY, FIXED FOCUS CAMERA MODULE, CMOS S.MMP | 1        |
+| 2.B   | 800-78571    | ENCLOSURE, ASSY, SCOOR Resin, NRR-NOCAM-CIV5648 | 1        |
+| 3     | 700-87692    | PWA, 8MPNAVQ-USBSER                            | 1        |
+| 4     | 334-77918    | Micro SDCS2 32GB, Class 10 UHS-I, Canvas Select Plus | 1        |
+| 5     | 600-77602    | HW ACCESSORY, 6 PIN TO 6 PIN POWER INPUT CABLE | 1        |
+| 6     | 600-77604    | HW ACCESSORY, POWER INPUT CABLE, SYR 2 PINS TO GHR 5 PINS | 1        |
+| 7     | 600-77625    | HW ACCESSORY, XT60 Male to XT60 Female with SYP in parallel | 1        |
+| 8     | 600-77521    | DATA CABLE, 2 PIN JST-GH TO 2 PIN JST-GH 254 MM | 1        |
+| 9     | 600-77456    | CABLE, 4 PIN JST-GH TO 4 PIN JST-GH 300 MM      | 2        |
+| 10    | 600-77370    | CABLE, USB-TTL, FTDI TTL-232R-3V3, 6 PIN CONNECTOR, +3.3V, 0.70 M | 1        |
+| 11    | 650-77719    | HW CABLE GH 5 PIN TO GH 5 PIN, 100 MM            | 1        |
+| 12    | 600-77212    | USB CABLE, USB 3.0 A/M TO TYPE C CABLE, 1M      | 1        |
+| 13    | 600-77658    | CABLE, IX INDUSTRIAL IP20 CABLE, IX TO RJ45    | 1        |
+| 14    | 928-79059    | QSG, Quick Start Guide For NAVQPLUSPC           | 1        |
+| 15    | 926-79301    | FLYER, INNOWAVE DESIGN MARKETING FLYER          | 1        |
+| 16    | 926-79302    | EMCRAFT QR CODE STICKER                         | 3        |
+| 17    | 901-77834    | HW ACCESSORY, ZIPLOCK BAG CONTAINING MOUNTING ACCESSORIES FOR SMPNAVQ-8GB-G AND MR-NOCAM-OV5646 | 1        |
+| 17.A  | 280-78113    | FASTENER, SCREW, M3-0.5X12, SOCKET HEAD, SS    | 4        |
+| 17.B  | 280-78116    | FASTENER, SCREW, 10-02x3/4", SOCKET HEAD, ss   | 1        |
+| 17.C  | 269-78117    | FASTENER, NUT, 10-32, HEX, 55                   | 1        |
+| 17.D  | 801-77546    | BRACKET, MOUNT, White Resin, MR-NQCAM-OV5645    | 1        |
+| 17.E  | 260-77408    | PRE-CUT DOUBLE-SIDED FOAM SQUARES # 1/16" thick, 1/2 x 1/2" | 4        |
+ 
+# WITB MR-B3RB-S
+ 
+## What's in the Box — MR-B3RB-Small (Standard) Components
+ 
+| S.No. | Name                | Quantity |
+|-------|---------------------|----------|
+| 1     | MR-B3RB-BMF         | 1        |
+| 2     | NavQPlus with Camera | 1        |
+| 3     | MR-CANHUBK344       | 1        |
+| 4     | MR-CANHUB-ADAP      | 1        |
+ 
+### Description of Components
+ 
+**UPDATING:** The final version will have the excess side rail materials removed from the board. Meanwhile, if your board looks as below, please snap off all the four side rails as shown below.
+ 
+- MR-CANHUB-ADAP
+  - Top View
+  - Bottom View
